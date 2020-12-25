@@ -1,3 +1,4 @@
 # This Project was on using Regression Techniques to predict the House Sales Price
 
-![enter image description here](https://media.istockphoto.com/photos/clothing-sales-clerks-work-in-department-store-picture-id658571188)
+
+![enter image description here](https://media.bizj.us/view/img/10884969/david-weekley-homesproduct-exterior*1200xx2400-1350-0-126.jpg)
